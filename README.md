@@ -2,7 +2,8 @@
 #### 1. Colab Link: https://colab.research.google.com/drive/1OIdTgOtFy1JV5tGW4obEMtZ1x8bZAge1?usp=sharing
 #### 2. Saved model file: Inside the repo
 #### 3. Link to team google drive folder: https://drive.google.com/drive/folders/1YgRqVET8mfLBOCLA_c_2UnZn1fn4d-ai
-#### 4. Dataset shared drive link: https://drive.google.com/drive/folders/1Po2aLL47V8_9Dj0jTMIf56VaPTeQr6tu 
+#### 4. Dataset shared drive link: https://drive.google.com/drive/folders/1Po2aLL47V8_9Dj0jTMIf56VaPTeQr6tu
+#### 5. Project Paper link: https://docs.google.com/document/d/1SK645cb3Hr9sg_YDG1n4Pu6B5Ppq5LAh-53mcW3qsxM/edit?usp=sharing
 
 Project Statement:
 
